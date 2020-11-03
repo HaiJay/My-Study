@@ -1,6 +1,6 @@
 # My-Study
 
-List of course i follow and solve.
+List of course i follow, learn and solve.
 
 **CS229: Machine Learning** \
 Ref \
